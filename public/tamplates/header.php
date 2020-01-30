@@ -29,8 +29,13 @@
     <header class="headerMenu">
         <menu class="hiddenMenu">
             <nav>
-
+                <a href="index" class="menuItem linkNS">
+                    <img src="public/images/logo.webp" alt="logo okobeautyschool" class="imgLogo">
+                </a>
+                <a href="" class="menuItem linkNS">Курсы визажа</a>
+                <a href="" class="menuItem linkNS">Галерея</a>
+                <a href="" class="menuItem linkNS">Расписание</a>
+                <a href="" class="menuItem linkNS">Контакты</a>
             </nav>
         </menu>
-
     </header>

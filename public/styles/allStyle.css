@@ -15,14 +15,12 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-html {
+html, body {
     font-family: 'Oswald', sans-serif;
-}
-body {
     position: relative;
     background-color: rgb(28, 38, 58);
     text-align: center;
-    overflow-x: hidden;
+    overflow: hidden;
     animation: showContent 400ms linear;
 }
 @keyframes showContent {
